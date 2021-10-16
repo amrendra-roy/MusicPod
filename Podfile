@@ -7,6 +7,7 @@ target 'MusicSwiftUIApp' do
   #use_frameworks!
   project '../MusicSwiftUIApp/MusicSwiftUIApp.xcodeproj'
 
+  #ref: https://material.io/components/progress-indicators/ios#using-progress-indicators
   pod 'MaterialComponents/ProgressView'
 end
 
