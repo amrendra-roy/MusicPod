@@ -15,5 +15,4 @@ target 'MusicCoreFramework' do
   project '../MusicCoreFramework/MusicCoreFramework.xcodeproj'
   pod 'ReachabilitySwift'
   
-  #test commit 
 end
